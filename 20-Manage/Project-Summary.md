@@ -3,77 +3,111 @@
 ## Project Overview
 
 **Project ID:** 260046-SP-99-SandCoKorea-HKK
-**Client:** S&Co Korea (SNCo Korea)
-**Status:** To be confirmed
-**Created:** 2026-01-27
+**Project Name:** Hell's Kitchen Korea - Automation System
+**Client:** S&Co Korea
+**Status:** Bidding / Quotation Phase
+**Bid Deadline:** February 10, 2026
 
-## Client Information
+## Show Information
 
-**Company:** S&Co Korea
-**Email Domain:** sncokorea.com
-**Key Contacts:**
-- Allen Lee - Company Manager (allen@sncokorea.com)
-- Celine (정예지) - Assistant Company Manager (celinecc@sncokorea.com)
-- Eunji (문은지) - Company Management Team (eunji314@sncokorea.com)
-- Younghak Ji - Technical Director, Dream Theatre (prod@dreamtheatre.co.kr)
+**Production:** Hell's Kitchen (Korean Production)
+**Venue:** Seoul, Korea
+**Season:** Summer 2026 (16 weeks)
 
-**Partner/Intermediary:** GWB Entertainment
-- Rachel Francis (rachel@gwbentertainment.com)
-- Stewart Crosbie (stewartcrosbie@mac.com)
-- Gareth Hewitt Williams (gareth@gwbentertainment.com)
+### Production Schedule
 
-## Related Projects with S&Co Korea
+| Date | Milestone |
+|------|-----------|
+| July 1, 2026 | Load-In |
+| July 25-28, 2026 | Preview / Opening |
+| November 15, 2026 | Final Performance |
 
-### POTO Korea (Phantom of the Opera)
-- **Charlotte Theatre, Seoul:** Multiple seasons
-- **Daegu Theatre:** Transfer season November 2023
+## Technical Requirements
 
-### Confirmed S&Co Korea Project History
+### Automation System
+- **8 automation tracks total:**
+  - 6 on-deck tracks
+  - 2 overhead slider tracks
+- **Continuous line pull:** 230 lbf (based on US tour)
+- **Heaviest unit:** US balcony unit
+- **Show deck height:** 6 inches (~152mm)
+- **Units:** Metres/second preferred (not feet/second)
+- **Set fabrication:** Korea (local)
 
-| Date | Event | Details |
-|------|-------|---------|
-| 2022-09 | POTO Site Visit Quotes | SPQ230025-27 issued for site visit and load-in support |
-| 2023-04-07 | POTO Korea Site Visit | Sam Kry site visit to Korea |
-| 2023-04-10 | Travel to Korea | Sam Kry travel arrangements confirmed |
-| 2023-07-05 | Charlotte Chandelier Issue | Technical issue with chandelier alignment |
-| 2023-08-12 | Daegu Site Visit | Sam Kry site visit scheduled |
-| 2023-08-19 | Chandelier Preset Errors | Technical issues addressed |
-| 2023-11-25 | POTO Daegu Transfer | Garreth Brown and Paul travel arrangements |
-| 2024-01-29 | Future Works Proposal | Greg Gowans proposal to Danny at S&Co Korea |
-| 2024-06-27 | Seoul Meeting Request | Follow-up for potential new projects |
+### Notes from Client
+- Sets have not yet been built - weights TBC
+- Will request weight information from North American tour
+- Exploring options for adapting automation for local fabrication
 
-## HKK Project - Clarification Needed
+## Client Contacts
 
-The "HKK" in the project name requires clarification. Possible interpretations:
-- **Harry Potter Korea** - There are references to Harry Potter Korea in early 2022 emails
-- **Other Korean show** - Could be another theatrical production
+### S&Co Korea
+| Name | Role | Email |
+|------|------|-------|
+| John (김창현) | Producer/Contact | john@sncokorea.com |
+| Erin (김은교) | Team Member | erinism@sncokorea.com |
 
-**Note:** Email search did not return specific results for "HKK" as a show name. Recommend confirming with the client or internal team what "HKK" refers to.
+### Dream Theatre (Technical Partner)
+| Name | Role | Email |
+|------|------|-------|
+| Ji (지영학) | Technical Director | prod@dreamtheatre.co.kr |
 
-## SimpleMotion Team Members (Korea Projects)
+## SimpleMotion Team
 
 | Name | Role |
 |------|------|
-| Sam Kry | Technical Specialist - Korea Projects |
-| Garreth Brown | Technical Support |
-| Paul | Technical Support |
-| Kenji Oates | Technical Specialist |
 | Greg Gowans | Managing Director |
 | Joy Yeoh | Head of Operations |
+| Kenji Oates | Technical Lead |
 
-## Key Documents to Create
+## Key Dates / Timeline
 
-- [ ] Quotation for HKK project scope
-- [ ] Technical specifications
-- [ ] Travel and logistics plan
-- [ ] Site visit report template
+| Date | Event | Details |
+|------|-------|---------|
+| 2026-01-16 | Initial Inquiry | John sent bid info package |
+| 2026-01-19 | Response | Greg confirmed interest in quoting |
+| 2026-01-20 | Schedule Received | John provided production schedule |
+| 2026-01-27 | Questions Sent | Joy requested bid deadline and meeting |
+| 2026-01-28 | Bid Info Confirmed | Deadline Feb 10, Zoom availability shared |
+| 2026-01-29 | Technical Questions | Kenji asked about weights, units, deck height |
+| 2026-02-02 | Technical Response | Ji/John provided deck height (152mm), line pull (230 lbf) |
+| **2026-02-10** | **BID DEADLINE** | Quotation due |
 
-## Notes
+## Email Thread Summary
 
-This summary was generated from email search on 2026-02-02. Further clarification needed on:
-1. What "HKK" stands for
-2. Current project status and scope
-3. Timeline and deliverables
+### 2026-01-16: Initial Contact
+John from S&Co Korea reached out requesting SimpleMotion's interest in the automation bid for Hell's Kitchen Korea. The production includes 8 automation tracks (6 on-deck, 2 overhead). Sets will be fabricated in Korea.
+
+### 2026-01-20: Schedule Confirmed
+- Load-in: July 1
+- Preview/Opening: July 25-28
+- Final: November 15 (16 weeks)
+
+### 2026-01-28: Bid Details
+- **Bid deadline: February 10, 2026**
+- Production schedule attached (not final)
+- Zoom meeting availability: Jan 29-30, 3-5 PM Korea time
+
+### 2026-02-02: Technical Clarifications
+- Show deck height: 6 inches (~152mm)
+- Prefer metres/second operation
+- Continuous line pull: 230 lbf (from US tour)
+- US balcony unit is heaviest
+- Set weights TBC (not yet built)
+
+## Action Items
+
+- [ ] Schedule Zoom meeting with John and Ji
+- [ ] Prepare quotation for automation system
+- [ ] Confirm equipment availability for July load-in
+- [ ] Consider local partnership for Korea installation
+- [ ] **Submit bid by February 10, 2026**
+
+## Related Projects
+
+- **260049-SP-99-SandCoKorea-POTO** - Phantom of the Opera Korea (ongoing relationship)
+- Previous POTO Korea work: Charlotte Theatre Seoul, Daegu transfer
 
 ---
-*Generated by Claude Code*
+*Last Updated: 2026-02-02*
+*Generated from email correspondence*
