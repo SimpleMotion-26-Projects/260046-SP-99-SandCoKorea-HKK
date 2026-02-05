@@ -1,7 +1,7 @@
 # Draft Email Reply - Hell's Kitchen Korea
 
 **To:** John (김창현) <john@sncokorea.com>, Ji (지영학) <prod@dreamtheatre.co.kr>
-**Cc:** Joy Yeoh <joy.yeoh@simplemotion.com>, Kenji Oates <kenji.oates@simplemotion.com>
+**Cc:** Joy Yeoh <joy.yeoh@simplemotion.com>, Kenji Oates <kenji.oates@simplemotion.com>, Rob Baker <rob.baker@simplemotion.com>, Ryan Sturgeon <ryan.sturgeon@simplemotion.com>, Chris Younger <chris.younger@simplemotion.com>
 **Subject:** Re: HK Hell's Kitchen Korea Automation Bid Info
 
 ---
@@ -12,31 +12,33 @@ Thank you for the additional information regarding the line pull (230 lbf) and d
 
 We have a few clarifying questions to ensure our quotation is accurate:
 
-**Track Travel Distances:**
-1. What are the travel distances for each of the 8 effects? The ground plan shows the track positions but we want to confirm the actual travel required for each unit.
-2. For the full-stage tracks (#1 and #6), what is the total travel from offstage storage to onstage position?
-
 **Equipment Scope:**
-3. The US tour specs mention the show deck must be setup and rigged at shop with load testing. Will S&Co Korea fabricate the deck tracks locally, or are you looking for SimpleMotion to supply complete track systems?
-4. For the overhead sliders (Effects #7 and #8), will these be integrated into existing venue infrastructure or do you need complete overhead track systems?
 
-**Control System:**
-5. The specs reference feet/inches programming. You mentioned preferring metres - we can accommodate this. Do you also prefer Korean language interface on the control system?
-6. How many operator positions are required at GS Arts Center?
+We propose to provide a drop-in floor tracking system for the following axes:
+
+| Axis | Effect | Type | Length | Speed (ft/s) | Speed (mm/s) |
+|------|--------|------|-------:|------:|-------------:|
+| 1 | #1 Track - Full Stage | Full Stage | 21500 mm | 4.0 ft/s | 1220 mm/s |
+| 2 | #1 SR - Half Stage Track | Half Stage | 10500 mm | 4.0 ft/s | 1220 mm/s |
+| 3 | #1 SL - Half Stage Track | Half Stage | 10500 mm | 4.0 ft/s | 1220 mm/s |
+| 4 | #2 SR - Half Stage Track | Half Stage | 10500 mm | 4.0 ft/s | 1220 mm/s |
+| 5 | #2 SL - Half Stage Track | Half Stage | 10500 mm | 4.0 ft/s | 1220 mm/s |
+| 6 | IN-3 Balcony - Full Stage Track | Full Stage | 21500 mm | 4.0 ft/s | 1220 mm/s |
+| 7 | IN-2 SL Slider | Overhead | 8000 mm | 4.5 ft/s | 1370 mm/s |
+| 8 | IN-2 SR Slider | Overhead | 8000 mm | 4.5 ft/s | 1370 mm/s |
+
+- We have suitable floor winches and control that will be available in South Korea at this time.
+- This will reduce any freight costs and shipping time.
+- With the show deck height set at 6 inches (152mm), this does not allow the hoists to be set into the show deck.
+- Is there the possibility of having the show deck at 10 inches (250mm)?
 
 **Venue & Installation:**
-7. What is the grid height and available rigging positions at GS Arts Center?
-8. Will SimpleMotion need to provide technicians for the full load-in period (July 1-12) or specific days only?
+
+We propose to send one senior automation technician for the load-in (July 1-12), tech (July 14-26), and preview periods (July 28-30) to work closely with your local crew.
 
 **Commercial:**
-9. Are you looking for equipment rental for the 126-performance season, or purchase of the automation system?
-10. Will there be option periods or potential tour extension beyond November 8?
 
-We would welcome a Zoom call to discuss these items. We are available:
-- **Wednesday Feb 5, 3-5 PM Korea time**
-- **Thursday Feb 6, 3-5 PM Korea time**
-
-Please let us know what works best.
+We understand that the rental period is over 126 performances. Could you share the dates of the possible extension?
 
 We are excited about the opportunity to support Hell's Kitchen Korea and continue our partnership with S&Co.
 
